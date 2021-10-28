@@ -1,0 +1,493 @@
+{
+    "jumpAppWhiteList": [{
+            "host": "bilibili",
+            "desc": "哔哩哔哩",
+            "imp_status": true
+        },
+        {
+            "host": "baidu",
+            "desc": "百度",
+            "imp_status": true
+        },
+        {
+            "host": "zhihu",
+            "desc": "知乎",
+            "imp_status": true
+        },
+        {
+            "host": "tieba",
+            "desc": "贴吧",
+            "imp_status": true
+        }
+    ],
+    "adFreeWhiteList": [{
+            "host": "baike.baidu.com",
+            "desc": "百度百科",
+            "imp_status": true
+        },
+        {
+            "host": "jingyan.baidu.com",
+            "desc": "百度经验",
+            "imp_status": true
+        },
+        {
+            "host": "zhidao.baidu.com",
+            "desc": "百度知道",
+            "imp_status": true
+        },
+        {
+            "host": "tieba.baidu.com",
+            "desc": "百度贴吧",
+            "imp_status": true
+        },
+        {
+            "host": "zhihu.com",
+            "desc": "知乎",
+            "imp_status": true
+        },
+        {
+            "host": "163.com",
+            "desc": "网易",
+            "imp_status": true
+        },
+        {
+            "host": "c.m.163.com",
+            "desc": "网易",
+            "imp_status": true
+        },
+        {
+            "host": "news.sina.cn",
+            "desc": "新浪",
+            "imp_status": true
+        },
+        {
+            "host": "sina.cn",
+            "desc": "新浪",
+            "imp_status": true
+        },
+        {
+            "host": "xw.qq.com",
+            "desc": "腾讯新闻",
+            "imp_status": true
+        },
+        {
+            "host": "inews.qq.com",
+            "desc": "腾讯新闻",
+            "imp_status": true
+        },
+        {
+            "host": "i.ifeng.com",
+            "desc": "凤凰网",
+            "imp_status": true
+        },
+        {
+            "host": "m.sohu.com",
+            "desc": "搜狐新闻",
+            "imp_status": true
+        },
+        {
+            "host": "3g.china.com",
+            "desc": "中华网",
+            "imp_status": true
+        },
+        {
+            "host": "m.thepaper.cn",
+            "desc": "澎湃新闻",
+            "imp_status": true
+        },
+        {
+            "host": "xiaohongshu.com",
+            "desc": "小红书 ",
+            "imp_status": true
+        },
+        {
+            "host": "baidu.com.iact",
+            "desc": "百度新闻列表",
+            "imp_status": true
+        },
+        {
+            "host": "baijiahao.baidu.com",
+            "desc": "百度百家号",
+            "imp_status": true
+        },
+        {
+            "host": "blog.csdn.net",
+            "desc": "csdn博客",
+            "imp_status": true
+        },
+        {
+            "host": "news.m.yiche.com",
+            "desc": "易车新闻",
+            "imp_status": true
+        },
+        {
+            "host": "36kr.com",
+            "desc": "36氪",
+            "imp_status": true
+        },
+        {
+            "host": "yidianzixun.com",
+            "desc": "一点资讯",
+            "imp_status": true
+        },
+        {
+            "host": "xueqiu.com",
+            "desc": "雪球",
+            "imp_status": true
+        },
+        {
+            "host": "10jqka.com.cn",
+            "desc": "同花顺",
+            "imp_status": true
+        },
+        {
+            "host": "jianshu.com",
+            "desc": "简书",
+            "imp_status": true
+        },
+        {
+            "host": "mafengwo.cn",
+            "desc": "马蜂窝",
+            "imp_status": true
+        },
+        {
+            "host": "qyer.com",
+            "desc": "穷游论坛",
+            "imp_status": true
+        },
+        {
+            "host": "eastmoney.com",
+            "desc": "东方财富",
+            "imp_status": true
+        },
+        {
+            "host": "bbs.tianya.cn",
+            "desc": "天涯社区",
+            "imp_status": true
+        },
+        {
+            "host": "douban.com",
+            "desc": "豆瓣话题",
+            "imp_status": true
+        },
+        {
+            "host": "guancha.cn",
+            "desc": "观察者网",
+            "imp_status": true
+        },
+        {
+            "host": "huanqiu.com",
+            "desc": "环球网",
+            "imp_status": true
+        },
+        {
+            "host": "infzm.com",
+            "desc": "南方周末",
+            "imp_status": true
+        },
+        {
+            "host": "bjnews.com.cn",
+            "desc": "新京报",
+            "imp_status": true
+        },
+        {
+            "host": "ppsport.com",
+            "desc": "PP体育",
+            "imp_status": true
+        },
+        {
+            "host": "pconline.com.cn",
+            "desc": "太平洋电脑网",
+            "imp_status": true
+        },
+        {
+            "host": "xcar.com.cn",
+            "desc": "爱卡汽车",
+            "imp_status": true
+        },
+        {
+            "host": "mp.cnfol.com",
+            "desc": "中金在线",
+            "imp_status": true
+        },
+        {
+            "host": "3g.cnfol.com",
+            "desc": "中金在线",
+            "imp_status": true
+        },
+        {
+            "host": "yicai.com",
+            "desc": "第一财经",
+            "imp_status": true
+        },
+        {
+            "host": "hexun.com",
+            "desc": "和讯",
+            "imp_status": true
+        },
+        {
+            "host": "m.toutiao.com",
+            "desc": "头条新闻",
+            "imp_status": true
+        }
+    ],
+    "showMoreWhiteList": [{
+            "host": "baike.baidu.com",
+            "desc": "百度百科",
+            "imp_status": true
+        },
+        {
+            "host": "jingyan.baidu.com",
+            "desc": "百度经验",
+            "imp_status": true
+        },
+        {
+            "host": "zhidao.baidu.com",
+            "desc": "百度知道",
+            "imp_status": true
+        },
+        {
+            "host": "tieba.baidu.com",
+            "desc": "百度贴吧",
+            "imp_status": true
+        },
+        {
+            "host": "zhihu.com",
+            "desc": "知乎",
+            "imp_status": true
+        },
+        {
+            "host": "163.com",
+            "desc": "网易",
+            "imp_status": true
+        },
+        {
+            "host": "c.m.163.com",
+            "desc": "网易",
+            "imp_status": true
+        },
+        {
+            "host": "news.sina.cn",
+            "desc": "新浪",
+            "imp_status": true
+        },
+        {
+            "host": "sina.cn",
+            "desc": "新浪",
+            "imp_status": true
+        },
+        {
+            "host": "xw.qq.com",
+            "desc": "腾讯新闻",
+            "imp_status": true
+        },
+        {
+            "host": "inews.qq.com",
+            "desc": "腾讯新闻",
+            "imp_status": true
+        },
+        {
+            "host": "i.ifeng.com",
+            "desc": "凤凰网",
+            "imp_status": true
+        },
+        {
+            "host": "m.sohu.com",
+            "desc": "搜狐新闻",
+            "imp_status": true
+        },
+        {
+            "host": "3g.china.com",
+            "desc": "中华网",
+            "imp_status": true
+        },
+        {
+            "host": "m.thepaper.cn",
+            "desc": "澎湃新闻",
+            "imp_status": true
+        },
+        {
+            "host": "xiaohongshu.com",
+            "desc": "小红书",
+            "imp_status": true
+        },
+        {
+            "host": "baidu.com.iact",
+            "desc": "百度新闻列表",
+            "imp_status": true
+        },
+        {
+            "host": "baijiahao.baidu.com",
+            "desc": "百度百家号",
+            "imp_status": true
+        },
+        {
+            "host": "blog.csdn.net",
+            "desc": "csdn博客",
+            "imp_status": true
+        },
+        {
+            "host": "news.m.yiche.com",
+            "desc": "易车新闻",
+            "imp_status": true
+        },
+        {
+            "host": "36kr.com",
+            "desc": "36氪",
+            "imp_status": true
+        },
+        {
+            "host": "yidianzixun.com",
+            "desc": "一点资讯",
+            "imp_status": true
+        },
+        {
+            "host": "xueqiu.com",
+            "desc": "雪球",
+            "imp_status": true
+        },
+        {
+            "host": "10jqka.com.cn",
+            "desc": "同花顺",
+            "imp_status": true
+        },
+        {
+            "host": "jianshu.com",
+            "desc": "简书",
+            "imp_status": true
+        },
+        {
+            "host": "mafengwo.cn",
+            "desc": "马蜂窝",
+            "imp_status": true
+        },
+        {
+            "host": "qyer.com",
+            "desc": "穷游论坛",
+            "imp_status": true
+        },
+        {
+            "host": "eastmoney.com",
+            "desc": "东方财富",
+            "imp_status": true
+        },
+        {
+            "host": "bbs.tianya.cn",
+            "desc": "天涯社区",
+            "imp_status": true
+        },
+        {
+            "host": "douban.com",
+            "desc": "豆瓣话题",
+            "imp_status": true
+        },
+        {
+            "host": "guancha.cn",
+            "desc": "观察者网",
+            "imp_status": true
+        },
+        {
+            "host": "huanqiu.com",
+            "desc": "环球网",
+            "imp_status": true
+        },
+        {
+            "host": "infzm.com",
+            "desc": "南方周末",
+            "imp_status": true
+        },
+        {
+            "host": "bjnews.com.cn",
+            "desc": "新京报",
+            "imp_status": true
+        },
+        {
+            "host": "ppsport.com",
+            "desc": "PP体育",
+            "imp_status": true
+        },
+        {
+            "host": "pconline.com.cn",
+            "desc": "太平洋电脑网",
+            "imp_status": true
+        },
+        {
+            "host": "xcar.com.cn",
+            "desc": "爱卡汽车",
+            "imp_status": true
+        },
+        {
+            "host": "mp.cnfol.com",
+            "desc": "中金在线",
+            "imp_status": true
+        },
+        {
+            "host": "3g.cnfol.com",
+            "desc": "中金在线",
+            "imp_status": true
+        },
+        {
+            "host": "yicai.com",
+            "desc": "第一财经",
+            "imp_status": true
+        },
+        {
+            "host": "hexun.com",
+            "desc": "和讯",
+            "imp_status": true
+        },
+        {
+            "host": "m.toutiao.com",
+            "desc": "头条新闻",
+            "imp_status": true
+        }
+    ],
+    "domains":{
+        "domain_list" :             {
+            "163.com": "3g.163.com/([\\s\\S]*)/article/",
+            "c.m.163.com": "c.m.163.com/news/a/",
+            "news.sina.cn": "news.sina.cn/",
+            "sina.cn": "([\\s\\S]*).sina.cn/",
+            "xw.qq.com": "xw.qq.com/",
+            "inews.qq.com": "view.inews.qq.com/a/",
+            "i.ifeng.com": "i.ifeng.com/",
+            "m.sohu.com": "m.sohu.com/a",
+            "3g.china.com": "3g.china.com/act/news/",
+            "m.thepaper.cn": "m.thepaper.cn/newsDetail_([\\s\\S]*)",
+            "xiaohongshu.com": "www.xiaohongshu.com/discovery/item/",
+            "baidu.com.iact": "www.baidu.com/#iact",
+            "mbd.baidu.com": "mbd.baidu.com",
+            "baijiahao.baidu.com": "baijiahao.baidu.com/",
+            "blog.csdn.net": "blog.csdn.net/([\\s\\S]*)/article/details/",
+            "news.m.yiche.com": "news.m.yiche.com/",
+            "36kr.com": "36kr.com/p/",
+            "yidianzixun.com": "www.yidianzixun.com/article/",
+            "xueqiu.com": "xueqiu.com/",
+            "10jqka.com.cn": "m.10jqka.com.cn/",
+            "jianshu.com": "jianshu.com/",
+            "mafengwo.cn": "m.mafengwo.cn/i/",
+            "qyer.com": "m.qyer.com/bbs/",
+            "eastmoney.com": "wap.eastmoney.com/a/",
+            "bbs.tianya.cn": "bbs.tianya.cn/m/post-([\\s\\S]*)",
+            "douban.com": "m.douban.com/group/topic/",
+            "guancha.cn": "m.guancha.cn/",
+            "huanqiu.com": "([\\s\\S]*).huanqiu.com/article/",
+            "infzm.com": "infzm.com/wap/",
+            "bjnews.com.cn": "m.bjnews.com.cn/detail/",
+            "ppsport.com": "m.ppsport.com/news/",
+            "pconline.com.cn": "g.pconline.com.cn/x/",
+            "xcar.com.cn": "a.xcar.com.cn/info/",
+            "mp.cnfol.com": "mp.cnfol.com/([\\s\\S]*)/article/",
+            "3g.cnfol.com": "3g.cnfol.com",
+            "yicai.com": "m.yicai.com/news/",
+            "hexun.com": "m.hexun.com/news/",
+            "jingyan.baidu.com": "jingyan.baidu.com",
+            "zhidao.baidu.com": "zhidao.baidu.com/question",
+            "baike.baidu.com": "baike.baidu.com/item",
+            "tieba.baidu.com": "tieba.baidu.com",
+            "zhihu.com": "zhihu.com"
+        },
+        "remote" : "https://mod.huoying666.com/ybd/domains/",
+    }
+
+}
